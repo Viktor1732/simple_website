@@ -41,10 +41,26 @@ body {
     color: rgb(137, 228, 228);
 }
 
-.slide-text {
+.slide-text, .footer-text {
     color: rgb(137, 228, 228);
     margin: auto auto;
 }
+
+footer {
+    background: linear-gradient(270deg, #0c0481 0%, #01010f 83%);    
+}
+
+.media-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.media-links img {
+    width: 45px;
+    margin-inline: 1em;
+}
+
 
 @media (max-width: 755px) {
     .carousel-indicators {
