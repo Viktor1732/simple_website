@@ -1,4 +1,8 @@
+
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
 body {
+    font-family: Michroma, serif;
     background: linear-gradient(140deg, #0c00ad 0%, #070713 83%);
 }
 
@@ -18,4 +22,16 @@ body {
 
 .navbar-toggler {
     background-color: rgb(137, 228, 228);
+}
+
+
+
+.sidebar {
+    color: rgb(137, 228, 228);
+    background: linear-gradient(270deg, #0c00ad 0%, #070713 83%);
+}
+
+.card {
+    color: rgb(137, 228, 228);
+    background: linear-gradient(270deg, #0c00ad 0%, #070713 83%);
 }
