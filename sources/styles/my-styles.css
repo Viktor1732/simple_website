@@ -35,3 +35,8 @@ body {
     color: rgb(137, 228, 228);
     background: linear-gradient(270deg, #0c00ad 0%, #070713 83%);
 }
+
+.card a {
+    text-decoration: none;
+    color: rgb(137, 228, 228);
+}
