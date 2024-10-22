@@ -40,3 +40,14 @@ body {
     text-decoration: none;
     color: rgb(137, 228, 228);
 }
+
+.slide-text {
+    color: rgb(137, 228, 228);
+    margin: auto auto;
+}
+
+@media (max-width: 755px) {
+    .carousel-indicators {
+        display: none;
+    }
+}
