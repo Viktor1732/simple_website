@@ -77,3 +77,11 @@ footer {
         display: none;
     }
 }
+
+
+/*When viewing the site through the Yandex browser, 
+a div tr-popup appears. I removed the display of tr-popup */
+
+div#tr-popup.tr-popup {
+    display: none;
+}
