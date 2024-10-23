@@ -6,6 +6,10 @@ body {
     background: linear-gradient(140deg, #0c00ad 0%, #070713 83%);
 }
 
+p {
+    color: rgb(137, 228, 228);
+}
+
 
 /* menu nav */
 
