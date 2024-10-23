@@ -56,7 +56,7 @@ p {
     margin: auto auto;
 }
 
-footer {
+footer, .btn-outline-primary {
     background: linear-gradient(270deg, #0c0481 0%, #01010f 83%);    
 }
 
