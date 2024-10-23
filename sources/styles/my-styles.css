@@ -6,6 +6,7 @@ body {
     background: linear-gradient(140deg, #0c00ad 0%, #070713 83%);
 }
 
+
 /* menu nav */
 
 .navbar-brand img{
@@ -14,6 +15,11 @@ body {
 
 .nav-link {
     color: rgb(161, 161, 161);
+}
+
+.nav-link img {
+    height: 25px;
+    margin-left: 1em;
 }
 
 .navbar-nav .nav-link.active {
